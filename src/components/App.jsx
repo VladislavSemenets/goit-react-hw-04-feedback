@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Section } from './Section/Section ';
+import { Section } from './Section/Section';
 
 export const App = () => {
   const [good, setGood] = useState(0);
